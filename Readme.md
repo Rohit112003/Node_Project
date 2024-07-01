@@ -1,2 +1,2 @@
-<h1>Brushing up my Backend with Node </h1>
+<h1>Brushing up my Backend with Nodes </h1>
 
