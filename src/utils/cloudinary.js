@@ -16,7 +16,7 @@ cloudinary.config({
         })
         //file has been uploaded successfull
         console.log("File is upladed on cloudinary")
-        console.log(response.url)
+    
         return response
        }catch(error){
             fs.unlinkSync(localFilePath) //remove the locally save temproray files as the upload operation got failed
